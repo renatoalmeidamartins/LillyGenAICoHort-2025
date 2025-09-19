@@ -7,6 +7,23 @@
 
 ## Supporting material links
 
+### Use case 1
+Use case: Rx fill behavior data including 1st, 2nd, 3rd fill and persistency / Length Of 
+Therapy available in a dashboard for multiple countries.
+- Business problem: Dashboard by default has few trend views and summary highlights by 
+country. Market and data maturity context also available. Want to have a GenAI / 
+Agentic AI implementation that will allow end users / leaders to interact and get insights
+they need in addition to default dashboard views. 
+- Objective: The AI interaction should produce accurate relevant insights based on what 
+country, data maturity and any market context and the Rx behavior dataset. For this use 
+case - thru this training we should be able to apply what is being taught and understand 
+the following: 
+
+1. Data readiness - considerations, format etc.<br>
+2. Prompt engineering <br>
+3. Training the model <br>
+4. Limitations<br>
+
 ### Week 1
 - [Domain 1 Review: AWS Certified AI Practitioner](https://skillbuilder.aws/learn/G74NXHMDQB/domain-1-review-aws-certified-ai-practitioner--aifc01--english/GMVR9CDHYQ?parentId=FBV4STG94B)
 - [Domain 1 Practice: AWS Certified AI Practitioner (AIF-C01 - English)](https://skillbuilder.aws/learn/QKUJ18Y3WV/domain-1-practice-aws-certified-ai-practitioner--aifc01--english/EYXQVB2QQ3?parentId=FBV4STG94B)
