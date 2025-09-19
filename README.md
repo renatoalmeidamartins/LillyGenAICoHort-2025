@@ -27,6 +27,8 @@
 - [Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)
 - [Sagemaker pricing](https://aws.amazon.com/sagemaker/ai/pricing/)
 - [Sagemaker's built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [Sagemaker Studio lab](https://studiolab.sagemaker.aws/), useful for experimenting with Sagemaker outside of your own AWS account
+- 
 
 ### Week 2
 - [Realize the business value of generative AI in your organization](https://aws.amazon.com/ai/generative-ai/use-cases/)
@@ -35,3 +37,4 @@
 - [Amazon uses generative AI to summarize reviews and help customer quickly focus on specific aspect of a product. This is a wireless mouse product with 50,000+ reviews](https://a.co/d/buKcWfi)
 - [5 ways Amazon Pharmacy uses AI to make getting medications more convenient for customers](https://www.aboutamazon.com/news/retail/how-amazon-pharmacy-uses-generative-ai)
 - [Generative AI Customer Stories](https://aws.amazon.com/ai/generative-ai/customers/)
+- [Party Rock](https://partyrock.aws/), for generating apps based on LLM
