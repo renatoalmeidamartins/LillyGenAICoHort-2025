@@ -3,10 +3,14 @@
 
 ## Classroom links, access to labs and course material
 - [GenAI essentials](https://us-east-1.student.classrooms.aws.training/class/ilt%23tBTURbADBXvHNFHCyc5dsh)
+- [Exam prep Plan: AWS Certified AI Practitioner](https://skillbuilder.aws/learning-plan/3NRN71QZR2/exam-prep-plan-aws-certified-ai-practitioner-aifc01--english/FBV4STG94B), in Skill Builder
 
 ## Supporting material links
 
 ### Week 1
+- [Domain 1 Review: AWS Certified AI Practitioner](https://skillbuilder.aws/learn/G74NXHMDQB/domain-1-review-aws-certified-ai-practitioner--aifc01--english/GMVR9CDHYQ?parentId=FBV4STG94B)
+- [Domain 1 Practice: AWS Certified AI Practitioner (AIF-C01 - English)](https://skillbuilder.aws/learn/QKUJ18Y3WV/domain-1-practice-aws-certified-ai-practitioner--aifc01--english/EYXQVB2QQ3?parentId=FBV4STG94B)
+- [Domain 1 SimuLearn: Document Handling Using Amazon Textract and Amazon Polly](https://skillbuilder.aws/learn/VBDT6PK8D9/aws-simulearn-document-handling-using-amazon-textract-and-amazon-polly/FUHG9M7PUT?parentId=FBV4STG94B)
 - [Generative AI on AWS](https://aws.amazon.com/ai/generative-ai/)
 - [Amazon Bedrock documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html)
 - [Introducing Amazon Nova, our new generation of foundation models](https://www.aboutamazon.com/news/aws/amazon-nova-artificial-intelligence-bedrock-aws)
@@ -31,6 +35,8 @@
 - 
 
 ### Week 2
+- [Domain 2 Review: AWS Certified AI Practitioner](https://skillbuilder.aws/learn/A5BTA8V17V/domain-2-review-aws-certified-ai-practitioner--aifc01--english/9Z2JWYRWSC?parentId=FBV4STG94B)
+- [Domain 2 Practice: AWS Certified AI Practitioner](https://skillbuilder.aws/learn/DPEGPHRH8W/domain-2-practice-aws-certified-ai-practitioner--aifc01--english/DAJAHUXEXH?parentId=FBV4STG94B)
 - [Realize the business value of generative AI in your organization](https://aws.amazon.com/ai/generative-ai/use-cases/)
 - [Generative AI innovations on AWS](https://aws.amazon.com/ai/our-story/)
 - [How customers are making more informed shopping decisions with Rufus, Amazon’s generative AI-powered shopping assistant](https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus)
