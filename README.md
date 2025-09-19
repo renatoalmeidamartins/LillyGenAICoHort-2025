@@ -1,6 +1,10 @@
 # LillyGenAICoHort-2025
 
-## Additional links
+
+## Classroom links, access to labs and course material
+- [GenAI essentials](https://us-east-1.student.classrooms.aws.training/class/ilt%23tBTURbADBXvHNFHCyc5dsh)
+
+## Supporting material links
 
 ### Week 1
 - [Generative AI on AWS](https://aws.amazon.com/ai/generative-ai/)
